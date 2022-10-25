@@ -8,8 +8,8 @@ a Python library for building parametric 3D CAD models.
 To edit the file you can use the [CQ-editor](https://github.com/CadQuery/CQ-editor).
 
 ## Downloads
-### [lueck-spare-part.stl](lueck-spare-part.stl)
-### [lueck-spare-part.py](lueck-spare-part.stl)
+### [lueck-spare-part.stl](lueck-spare-part.stl) (Preview + DL)
+### [lueck-spare-part.py](lueck-spare-part.py)
 
 ## Code
 > 💡 Unit of all dimensions is millimeter [mm]
