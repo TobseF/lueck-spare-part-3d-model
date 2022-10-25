@@ -17,7 +17,7 @@ To edit the file you can use the [CQ-editor](https://github.com/CadQuery/CQ-edit
 ```python
 import cadquery as cq
 
-oderSide = 39 # Outer side length
+outerSide = 39 # Outer side length
 innerSide = 26
 wall = 2
 height = 6.38
@@ -31,7 +31,7 @@ sideNobbelA = (innerSide + 2 * wall) - nobbleCorrection
 sideNobbelB = sideNobbelA - 2 * nobblePos
 nobbeRadius = 0.4
 
-sideShell = oderSide - 2 * wall
+sideShell = outerSide - 2 * wall
 onPlate = (True, True, False)
 
 nobbels = (cq.Workplane().rect(sideNobbelA, sideNobbelB, forConstruction=True)
