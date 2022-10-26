@@ -7,11 +7,13 @@ The 3D model was made with [Cad-Query](https://cadquery.readthedocs.io/)
 a Python library for building parametric 3D CAD models.  
 To edit the file you can use the [CQ-editor](https://github.com/CadQuery/CQ-editor).
 
-## Downloads
-### [lueck-spare-part.stl](lueck-spare-part.stl) (Preview + DL)
+> 🔎 [3D Preview](https://tobsef.github.io/lueck-spare-part-3d-model/)
+
+## 💾 Downloads
+### [lueck-spare-part.stl](lueck-spare-part.stl)
 ### [lueck-spare-part.py](lueck-spare-part.py)
 
-## Code
+## ✏ Code
 > 💡 Unit of all dimensions is millimeter [mm]
 ### [`lueck-spare-part.py`](lueck-spare-part.py)
 ```python
